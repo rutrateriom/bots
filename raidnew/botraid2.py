@@ -39,5 +39,3 @@ async def taverne(ctx):
 	for member in members:	
 		await member.move_to(channelraid)
 
-
-bot.run("[la référence]")

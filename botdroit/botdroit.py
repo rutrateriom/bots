@@ -105,5 +105,3 @@ async def search(ctx,text,code=""):
 
 
 
-
-bot.run("[la référence]")
