@@ -191,4 +191,4 @@ async def arrange(ctx):
 
 
 
-bot.run("MTA3Mjk4Mzg1NzkwNjg2NDIwOA.GpBAlv.eyG05L4ufsgVmNUFVEWQQjjY7rp_OJBWLR2aTU")
+bot.run("[la référence]")

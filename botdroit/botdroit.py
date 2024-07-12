@@ -106,4 +106,4 @@ async def search(ctx,text,code=""):
 
 
 
-bot.run("OTUyMjYyMTg1OTk5MDIwMTEz.Gj2Tt1.pV520R90JefAE1s-_qVF-6wrjZl3yCTFxUZkgo")
+bot.run("[la référence]")
